@@ -126,6 +126,8 @@ Significance:
 This reveals a deeper layer of the SRP enhancement mechanism beyond
 simple perturbation compensation to active co-optimization."
 
+Main Repository: https:\/\/github.com\/Petariliev84\/MarsDataMule-Orbit-Discovery\n\n/' README.md
+
 ## Repository Contents
 - `gmat_scripts/` - Complete GMAT simulation scripts
 - `data/` - Raw and processed simulation results
