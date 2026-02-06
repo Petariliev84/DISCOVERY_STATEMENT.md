@@ -55,6 +55,8 @@ Contact: Petar_Iliev84@hotmail.com
 - Provides simultaneous high-rate access to both planets
 - Natural handoff scheduling between planetary phases
 
+- Complete Technical Repository\nFor organized scripts and data: https://github.com/Petariliev84/MarsDataMule-Orbit-Discovery" >> README.md
+
 ### Mass-Optimized Performance
 - All spacecraft classes (1000-5000 kg) outperform traditional orbits
 - Heavy satellites converge to superior performance over time
