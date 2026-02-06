@@ -1,8 +1,12 @@
-DISCOVERY STATEMENT: SRP-Stabilized Earth-Mars Resonant Cycler Orbit
+DISCOVERY STATEMENT
+
+SRP-Stabilized Earth–Mars Resonant Cycler Orbit
+
 Official Discovery Claim
-I, Petar Iliev Dryanovski, have discovered and characterized a novel class of interplanetary orbit that uses Solar Radiation Pressure (SRP) as an active stabilization and tuning mechanism to maintain a near-resonant trajectory between Earth and Mars, validated by 30+ years of propagation data (2035-2065).
+I, Petar Iliev Dryanovski, have discovered and characterized a novel class of interplanetary trajectory, termed SRP-stabilized Earth–Mars resonant cycler orbit, in which Solar Radiation Pressure (SRP) is actively used to stabilize and fine-tune the orbit, maintaining near-resonant, repeatable encounters between Earth and Mars. This discovery is supported by 30+ years of propagated orbital data (2035–2065) demonstrating bounded distance minima, convergence, and self-optimizing approach geometries.
 
 Timestamp Record
+
 Discovery Date: February 5, 2026
 
 Initial Verification: February 2026
@@ -14,198 +18,166 @@ Public Release: February 6, 2026
 License
 This discovery is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
-Permitted Use (with attribution):
-Academic research (universities, institutions)
+Permitted Use (with attribution)
 
-Government space agencies (NASA, ESA, JAXA, etc.)
+Academic research
 
-Educational purposes (classrooms, students)
+Government space agencies
+
+Educational purposes
 
 Open-source non-commercial projects
 
-Requires Explicit Permission:
-Commercial implementation (SpaceX, Blue Origin, telecommunications)
+Requires Explicit Permission
 
-For-profit consulting or services
+Commercial implementation
 
-Proprietary implementations
+Proprietary or for-profit services
 
-Commercial Inquiries:
+Consulting or commercial applications
+
+Commercial Inquiries
 Contact: Petar_Iliev84@hotmail.com
 
 DATA-VERIFIED PERFORMANCE CHARACTERISTICS
-Earth Access (30-Year Validation: 2035-2065)
-Measured Minimum Approaches:
 
-1,518,385 km (29 Aug 2061)
+Earth Access (30-Year Validation: 2035–2065)
 
-1,691,820 km (03 Feb 2065)
+Minimum approaches: 1.52–3.55 million km
 
-2,800,178 km (05 Mar 2061)
+Consistent range: 1.5–5.0 million km
 
-3,552,155 km (14 Jan 2062)
+Plateau periods: 10+ day stable windows at ~6.66 million km (±0.15%)
 
-Consistent Performance Range: 1.5-5.0 million km across multiple orbital cycles
+Improvement trend: Approaches deepen over successive cycles
 
-Plateau Periods Validated: 10+ day windows at ~6.66 million km (±0.15% variation, 2046 data)
-
-Performance Improvement Trend: Approaches deepen over time (5.2M→3.3M→1.5M km)
-
-Traditional Cycler Comparison: 4-35× closer than Aldrin-class cyclers (20-30M km minimum)
+Comparison: 4–35× closer than traditional Aldrin-class cyclers
 
 Mars Access (30-Year Validation)
-Measured Minimum Approaches:
 
-1,225,558 km (18 Dec 2035)
+Minimum approaches: 1.23–2.57 million km
 
-1,883,299 km (03 Apr 2056)
+Stability: Mars distance variation <5% during Earth flybys
 
-2,567,915 km (05 Jul 2060)
+Simultaneous dual-planet access: Both planets <25 million km concurrently
 
-Stability During Earth Approaches: Mars distance variation <5% during Earth close flybys
+Predictable cycle: 4-orbit (~4.3 year) resonant pattern
 
-Dual-Planet Geometric Optimization
-Simultaneous Access Demonstrated: Both planets <25M km concurrently (Feb-Mar 2061: ~22M km each)
+Signal & Communications Advantage
 
-Coordinated Approaches: Both distances decreasing simultaneously (Apr-May 2065)
+Optimal Earth–Mars line geometry for relays
 
-Continuous Coverage: 30-year data shows never both planets >8M km threshold exceeded
+Enables high-bandwidth windows during plateau periods
 
-Predictable Patterns: Clear 4-orbit (~4.3 year) resonant cycle with evolving geometries
+Reduced ground infrastructure requirements
 
-Signal Enhancement Geometry
-Optimal Relay Positioning: Satellite maintains favorable geometry along Earth-Mars line
+KEY INNOVATIONS & MECHANISMS
 
-Communications Advantage: Enables shorter two-hop path for Earth-Mars links
-
-Scheduled High-Bandwidth Windows: Plateau periods enable predictable high-data-volume transmission
-
-KEY INNOVATIONS & MECHANISMS (Data-Proven)
 SRP-Enabled Dynamic Resonance
-Core Resonance: 0.575 near-resonance with Mars period (~395-day cycler orbit)
 
-SRP as Active Control Mechanism: Solar radiation pressure maintains resonance against perturbations
+Core near-resonance: ~0.575 with Mars period (~395-day cycler orbit)
 
-Four-Orbit Synchronization: 4 cycler orbits ≈ 4.3 Earth years, creating repeating geometric patterns
+Active SRP control maintains stability and convergence
 
-Self-Optimizing Behavior: Orbit "learns" and improves approach geometries over multiple cycles
+Self-optimizing behavior observed across multiple cycles
 
-Multi-Modal Geometric Repertoire (Observed in Data)
-Earth-Optimized Mode: Earth <5M km, Mars 190-440M km
+Multi-Modal Geometries
 
-Mars-Optimized Mode: Mars 1.2-2.6M km, Earth 125-285M km
+Earth-Optimized, Mars-Optimized, Dual-Optimized, Coordinated Approach, Plateau Modes
 
-Dual-Optimized Mode: Both ~22M km simultaneously (2061)
+Mass-enhanced control: 1,000–5,000 kg spacecraft classes validated
 
-Coordinated Approach Mode: Both distances decreasing together (2065)
-
-Plateau Mode: Stable Earth distance for extended communications (2046)
-
-Mass-Enhanced Performance Physics
-Heavier Spacecraft Advantage: Higher mass-to-area ratio enables finer SRP control
-
-Long-Term Convergence: Performance improves with mission duration
-
-Scalability: Design validated for 1000-5000 kg spacecraft classes
+Long-term convergence: Performance improves over mission duration
 
 Predictable Multi-Timescale Scheduling
-Short-term: 10-day Earth plateaus for stable operations
 
-Medium-term: 4-orbit (~4.3 year) cycles for mission planning
+Short-term: 10-day Earth plateaus
 
-Long-term: 146-orbit (~160 year) libration for program planning
+Medium-term: 4-orbit (~4.3 years) repeating cycle
+
+Long-term: 146-orbit (~160 years) libration pattern
 
 MISSION IMPACT & APPLICATIONS
+
 Communications Infrastructure
-Persistent Mars Relay: Continuous high-bandwidth link between Earth and Mars
 
-Reduced Ground Infrastructure: Smaller antennas possible due to closer approaches
+Persistent Earth–Mars relay
 
-Eliminated Blackouts: Continuous coverage vs. traditional periodic access
+Reduced blackouts and smaller ground antennas
 
 Scientific Platform
-Stable Observatory Position: Near Earth-Mars line for solar/system observations
 
-Long-term Monitoring: Decades-long stability enables climate/space weather studies
+Stable observational vantage for solar/system studies
 
-Technology Demonstration: SRP-based station-keeping and navigation
+Decades-long monitoring capability
+
+SRP-based station-keeping demonstration
 
 Transportation Node
-Cycler Station Concept: Permanent infrastructure element for Mars transportation
 
-Reduced Propellant Requirements: Vehicles rendezvous rather than direct transfer
+Cycler station enabling rendezvous-based Mars missions
 
-Scalable Architecture: Supports small (CubeSat) to large (crewed) missions
+Reduced propellant requirements
+
+Scalable from CubeSats to crewed spacecraft
 
 VERIFICATION METHODOLOGY
-Simulation Environment
-Software: GMAT R2025a (NASA's General Mission Analysis Tool)
 
-Force Models: DE424 ephemeris, SRP with plate/spherical models
+Software: GMAT R2025a
 
-Propagation: RungeKutta89 integrator, 1e-8 to 1e-13 tolerance
+Force Models: DE424 ephemeris, SRP (plate/spherical)
 
-Duration: 146 orbits (~160 years) full propagation, 30+ years detailed analysis
+Integrator: RungeKutta89, 1e-8–1e-13 tolerance
 
-Validation Scope
-Time Span Analyzed: 2035-2065 (30+ years of orbital positions)
+Propagation: 146 orbits (~160 years), 30-year detailed analysis
 
-Approach Events Documented: 10+ Earth approaches, 5+ Mars approaches
+Data: Distances, timings, geometries, mass variations (4,000 kg)
 
-Performance Metrics: Distances, timing, geometric relationships fully characterized
-
-Mass Configurations:  4000 kg analyzed
-
-SRP Variations: 35 m² area sensitivity studies
-
-Reproducibility
-Complete Scripts Provided: All GMAT configuration files available
-
-Initial Conditions Documented: Precise starting parameters for each mass class
-
-Data Archive: Raw and processed simulation results included
+Reproducibility: Complete scripts and initial conditions documented
 
 SCIENTIFIC SIGNIFICANCE
-This discovery represents a fundamental advance in astrodynamics:
 
-New Orbital Class: First practical implementation of SRP-stabilized resonant cycling between planets
+New Orbital Class: First practical SRP-stabilized dual-planet cycler
 
-Paradigm Shift: From SRP-as-perturbation to SRP-as-control-mechanism
+Paradigm Shift: From SRP as perturbation to SRP as control
 
-Dual-Planet Solution: Breaks traditional Earth-Mars access trade-off with multiple optimized geometries
+Dual-Planet Solution: Optimized Earth–Mars access with predictable geometry
 
 Infrastructure Foundation: Enables permanent interplanetary relay capability
 
-Mission Flexibility: Tunable for various spacecraft classes and mission objectives
+Mission Flexibility: Tunable across spacecraft classes and mission objectives
 
 REPOSITORY CONTENTS
-gmat_scripts/ - Complete GMAT simulation scripts for all mass configurations
 
-data/ - Raw and processed simulation results (146 orbits, 160 years)
+gmat_scripts/ – Complete GMAT simulation scripts
 
-documentation/ - Technical notes, validation reports, and geometric analyses
+data/ – Raw and processed results (146 orbits, 160 years)
 
-visualizations/ - Orbit plots, approach geometry diagrams, performance charts
+documentation/ – Technical notes, validation reports, geometry analyses
 
-LICENSE - CC BY-NC-SA 4.0 license terms
+visualizations/ – Orbit plots, approach diagrams, performance charts
+
+LICENSE – CC BY-NC-SA 4.0 terms
 
 Primary Repository: https://github.com/Petariliev84/MarsEarth-SRP-Cycler
 
-HOW TO VERIFY
-Install GMAT R2025a (freely available from NASA)
+Verification Instructions:
 
-Run provided scripts in gmat_scripts/ directory
+Install GMAT R2025a
+
+Run scripts from gmat_scripts/
 
 Reproduce 146-orbit propagation
 
-Validate performance metrics against claimed results
+Validate metrics against claimed results
 
-Analyze approach geometries and timing patterns
+Contact & Citation:
 
-CONTACT & CITATION
 Discoverer: Petar Iliev Dryanovski
+
 Email: Petar_Iliev84@hotmail.com
-Repository: https://github.com/Petariliev84/MarsEarth-SRP-Cycler
+
+Repository: [GitHub link above]
 
 Preferred Citation:
-"Dryanovski, P. I. (2026). SRP-Stabilized Earth-Mars Resonant Cycler Orbit: A New Class of Self-Optimizing Interplanetary Trajectory. Discovery Repository."
+“Dryanovski, P. I. (2026). SRP-Stabilized Earth-Mars Resonant Cycler Orbit: A New Class of Self-Optimizing Interplanetary Trajectory. Discovery Repository.”
