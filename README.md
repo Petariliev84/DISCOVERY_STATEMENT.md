@@ -129,7 +129,7 @@ Proprietary systems or consulting
 
 For-profit applications
 
-Primary Repository: https://github.com/Petariliev84/MarsEarth-SRP-Cycler
+Primary Repository: https://github.com/Petariliev84/MarsDataMule-Orbit-Discovery
 
 Preferred Citation:
 Dryanovski, P. I. (2026). SRP-Stabilized Earth-Mars Resonant Cycler Orbit: A New Class of Self-Optimizing Interplanetary Trajectory. Discovery Repository.
