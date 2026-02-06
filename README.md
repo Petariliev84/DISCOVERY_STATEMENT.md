@@ -141,7 +141,7 @@ VERIFICATION METHODOLOGY
 Simulation Environment
 Software: GMAT R2025a (NASA's General Mission Analysis Tool)
 
-Force Models: DE440 ephemeris, SRP with plate/spherical models
+Force Models: DE424 ephemeris, SRP with plate/spherical models
 
 Propagation: RungeKutta89 integrator, 1e-8 to 1e-13 tolerance
 
@@ -154,9 +154,9 @@ Approach Events Documented: 10+ Earth approaches, 5+ Mars approaches
 
 Performance Metrics: Distances, timing, geometric relationships fully characterized
 
-Mass Configurations: 1000, 1800, 4000, 5000 kg analyzed
+Mass Configurations:  4000 kg analyzed
 
-SRP Variations: 15-35 m² area sensitivity studies
+SRP Variations: 35 m² area sensitivity studies
 
 Reproducibility
 Complete Scripts Provided: All GMAT configuration files available
