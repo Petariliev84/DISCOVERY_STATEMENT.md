@@ -17,7 +17,7 @@ I, **Petar Iliev Dryanovski**, independently discovered and characterized a nove
 
 ### Earth Performance:
 - **Minimum approach**: **841,137 km** (24-60× closer than traditional cyclers)
-- **Plateau periods**: 10-day windows at ~6.7 million km (±2% variation)
+- **Plateau periods**: Days windows at ~6.7 million km (±2% variation)
 - **Signal gain**: Up to **71,600×** better than direct link
 
 ### Dual-Planet Coverage:
