@@ -62,6 +62,8 @@ Contact: Petar_Iliev84@hotmail.com
 - Heavy satellites converge to superior performance over time
 - Enables CubeSat to flagship mission scalability
 
+-  Complete Technical Repository\nFor organized scripts, data, and documentation:\n**https://github.com/Petariliev84/MarsDataMule-Orbit-Discovery**" >> README.md
+
 ### Predictable Multi-Timescale Scheduling
 - Short-term: 10-day Earth plateaus for stable operations
 - Medium-term: 4-orbit waves for mission planning
