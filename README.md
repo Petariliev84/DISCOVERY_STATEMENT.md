@@ -62,7 +62,7 @@ I, **Petar Iliev Dryanovski**, independently discovered and characterized a nove
 - **Predictable link budgets** enable simpler spacecraft
 - **Continuous coverage** eliminates communications blackouts
 
-## 📊Verification Methodology
+## Verification Methodology
 ### Simulation Environment:
 - **Software**: GMAT R2025a (NASA's General Mission Analysis Tool)
 - **Force models**: Full ephemeris DE440, SRP with plate models
@@ -83,7 +83,7 @@ I, **Petar Iliev Dryanovski**, independently discovered and characterized a nove
 - `gmat_scripts/` - Complete GMAT simulation scripts
 - `data/` - Raw and processed simulation results  
 - `documentation/` - Technical notes and validation reports
-- `LICENSE` - MIT License for open use with attribution
+- `LICENSE` - CC BY-NC-SA 4.0 
 
 ##  License
 This discovery is released under the **Creative Commons Attribution-
@@ -132,4 +132,4 @@ contact: Petar_iliev84@hotmail.com
 This repository serves as a public, timestamped record of this discovery. The commit history, file timestamps, and GitHub infrastructure provide immutable evidence of the discovery date and contents.
 
 ---
-*Last updated: [Today's date]*
+*Last updated: 6.Feb.2026
